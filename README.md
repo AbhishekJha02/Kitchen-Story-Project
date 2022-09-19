@@ -4,7 +4,7 @@
 
 ## Kitchen Story an E-commerce Portal
 
-The code for this project is hosted at https://github.com/AbhishekJha02/Kitchen-Story.git
+The code for this project is hosted at https://github.com/AbhishekJha02/Kitchen-Story-Project.git
 The project is developed by Abhishek Kumar Jha.
 # Project Details
 This project aims to design and develop an E-commerce website that lets people shop basic food items using Angular and Spring boot. It enables users to search and buy the available products. It was developed as a project of Phase-4 for the Full Stack Java Developer course.
